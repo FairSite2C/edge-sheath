@@ -1,0 +1,6 @@
+D:\OlioSync\p2\node_modules\edge-sheath\Sheath\bin\Debug\ConsoleApp1.exe.config
+D:\OlioSync\p2\node_modules\edge-sheath\Sheath\bin\Debug\ConsoleApp1.exe
+D:\OlioSync\p2\node_modules\edge-sheath\Sheath\bin\Debug\ConsoleApp1.pdb
+D:\OlioSync\p2\node_modules\edge-sheath\Sheath\obj\Debug\Sheath.csprojResolveAssemblyReference.cache
+D:\OlioSync\p2\node_modules\edge-sheath\Sheath\obj\Debug\ConsoleApp1.exe
+D:\OlioSync\p2\node_modules\edge-sheath\Sheath\obj\Debug\ConsoleApp1.pdb

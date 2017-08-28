@@ -1,0 +1,21 @@
+{
+  "name": "edge-sheath",
+  "version": "1.0.0",
+  "description": "javascript wrapper for edge",
+  "main": "sheath.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "deasync": "^0.1.9",
+    "edge": "^6.5.1",
+    "xml2js": "^0.4.17"
+  },
+  "keywords": [
+    "edge",
+    "javascript",
+    "reflection"
+  ],
+  "author": "Neal Lowrey",
+  "license": "MIT"
+}

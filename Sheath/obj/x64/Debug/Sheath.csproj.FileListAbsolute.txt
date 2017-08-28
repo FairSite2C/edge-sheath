@@ -1,0 +1,6 @@
+D:\OlioSync\p2\node_modules\edge-sheath\Sheath\obj\x64\Debug\Sheath.csprojResolveAssemblyReference.cache
+D:\OlioSync\p2\node_modules\edge-sheath\Sheath\Sheath.exe.config
+D:\OlioSync\p2\node_modules\edge-sheath\Sheath\obj\x64\Debug\Sheath.exe
+D:\OlioSync\p2\node_modules\edge-sheath\Sheath\obj\x64\Debug\Sheath.pdb
+D:\OlioSync\p2\node_modules\edge-sheath\Sheath\Sheath.exe
+D:\OlioSync\p2\node_modules\edge-sheath\Sheath\Sheath.pdb
